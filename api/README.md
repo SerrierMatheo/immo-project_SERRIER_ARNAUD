@@ -1,9 +1,9 @@
-# Slim 4 API
+# API immo-project
 
-Simple API using Slim v4 MySQL and optionnaly S3 Storage
+Api de gestion des actions de l'application immo-project
 
-## Run
+## Installation
 
-- Create `.env` from `.env.exemple`
-- Update environement variable
-- run `php -S localhost:<PORT> -t ./public`
+```bash
+composer install
+```
